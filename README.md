@@ -1,4 +1,4 @@
-# Lean - Offline Workout Helper (Android)
+# Lean - Simple Tracker (Android)
 
 Lean is an offline-first Android app focused on daily fitness execution with a clean, modern UI.
 
