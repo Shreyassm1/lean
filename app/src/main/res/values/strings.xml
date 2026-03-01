@@ -1,3 +1,54 @@
 <resources>
     <string name="app_name">Lean</string>
+    <string name="title_main">Lean Planner</string>
+    <string name="subtitle_main">Workout + nutrition, one clean system</string>
+    <string name="hero_title">Daily command center</string>
+    <string name="hero_subtitle">Track momentum across planning, meals, and workouts</string>
+    <string name="hero_timetable">Timetable</string>
+    <string name="hero_nutrition">Nutrition</string>
+    <string name="hero_training">Training</string>
+
+    <string name="nav_overview">Overview</string>
+    <string name="nav_timetable">Timetable</string>
+    <string name="nav_meals">Meals</string>
+    <string name="nav_workout">Workout</string>
+
+    <string name="title_timetable">Timetable</string>
+    <string name="title_calories">Meals &amp; Calories</string>
+    <string name="title_workout">Workout</string>
+
+    <string name="section_timetable">Daily Timetable</string>
+    <string name="section_timetable_hint">One active timetable at a time. Edit entries or clear all to start fresh.</string>
+    <string name="add_entry">Add Entry</string>
+    <string name="clear_all">Clear All</string>
+    <string name="empty_timetable">No timetable entries yet.</string>
+    <string name="reset_today">Reset Today</string>
+
+    <string name="section_calorie">Calorie Tracker</string>
+    <string name="section_calorie_hint">Track intake against your daily goal.</string>
+    <string name="set_goal">Set Goal</string>
+    <string name="add_calorie_log">Add Intake</string>
+    <string name="clear_logs">Clear Logs</string>
+    <string name="empty_calories">No calorie logs yet.</string>
+
+    <string name="section_hydration">Hydration</string>
+    <string name="set_water_goal">Set Water Goal</string>
+    <string name="add_water_custom">Add Custom</string>
+
+    <string name="section_workout">Workout Tracker</string>
+    <string name="section_workout_hint">Simple daily checklist grouped by your day phases.</string>
+    <string name="start_timer">Start Timer</string>
+    <string name="stop_timer">Stop + Log</string>
+    <string name="active_timer_none">No active timer</string>
+    <string name="section_morning">Morning</string>
+    <string name="section_evening">Evening</string>
+    <string name="add_task">Add Task</string>
+    <string name="empty_workout_tasks">No tasks yet.</string>
+
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="log">Log</string>
+
 </resources>

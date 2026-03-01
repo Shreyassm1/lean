@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_overview"
+        android:icon="@drawable/ic_nav_overview"
+        android:title="@string/nav_overview" />
+    <item
+        android:id="@+id/nav_timetable"
+        android:icon="@drawable/ic_nav_timetable"
+        android:title="@string/nav_timetable" />
+    <item
+        android:id="@+id/nav_calories"
+        android:icon="@drawable/ic_nav_meals"
+        android:title="@string/nav_meals" />
+    <item
+        android:id="@+id/nav_workout"
+        android:icon="@drawable/ic_nav_workout"
+        android:title="@string/nav_workout" />
+</menu>
